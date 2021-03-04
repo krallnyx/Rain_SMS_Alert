@@ -7,3 +7,5 @@ If using a script, you can set the environment variables before the "python3 mai
 a semi-column
 
 In addition to those 2 variables, you also need to set your latitude/longitude, your account SID and the phones number to use
+
+This script is optimized to work on PythonAnywhere
